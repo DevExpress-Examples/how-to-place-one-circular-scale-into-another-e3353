@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ScaleLayoutSample/MainPage.xaml) (VB: [MainPage.xaml](./VB/ScaleLayoutSample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ScaleLayoutSample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ScaleLayoutSample/MainPage.xaml))
+<!-- default file list end -->
 # How to place one circular scale into another
 
 
